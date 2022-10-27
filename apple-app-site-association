@@ -2,10 +2,11 @@
     "applinks": {
         "apps": [],
         "details": [
-            {
-                "appID": "org.reactjs.native.example.sage-native",
-                "paths": [ "*" ]
-            }
+	    {
+                "appID": "8Q38B9R255.org.reactjs.native.example.sage-native",
+                "paths": [ "/redirect/" ]
+            },
+
         ]
     }
 }

@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "sage_native",
+      "package_name": "com.sage_native",
+      "sha256_cert_fingerprints": [
+        "A1:34:33:90:2C:6F:B4:BE:87:43:4A:2C:4F:55:5D:49:2F:24:46:DB:B4:0F:21:DA:43:55:95:87:B0:75:22:09"
+      ]
+    }
+  }
+]

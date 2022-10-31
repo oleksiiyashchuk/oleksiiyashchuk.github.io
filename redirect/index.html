@@ -41,9 +41,10 @@
         (storyUrl =
           "itms-apps://itunes.apple.com/us/app/sage-by-ramco/id1592739629");
       isAndroid &&
-        "http://play.google.com/store/apps/details?id=com.sage_native";
+        (storyUrl =
+          "http://play.google.com/store/apps/details?id=com.sage_native");
 
-      window.location = storyUrl;
+      storyUrl && (window.location = storyUrl);
     </script>
   </head>
   <body></body>
